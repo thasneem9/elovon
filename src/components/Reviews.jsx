@@ -1,23 +1,24 @@
 import './reviews.css';
 import review1 from '../assets/review1.png'
-import review2 from '../assets/review1.png'
-import review3 from '../assets/review1.png'
+import review2 from '../assets/review2.png'
+import review3 from '../assets/review3.png'
 const Reviews = () => {
   const testimonials = [
     {
       name: 'Lauren M.',
-      text: 'My results still shock me every day and continue to shock those around me',
+      text: 'My results at Elovon gym still shock me every day and continue to amaze those around me.',
       image: review1
     },
     {
       name: 'Amy R.',
-      text: '"Strong is a good look" I’m so thankful to have found this workout and I tell people all the time about it',
-      image: review1
+      text: 'I have never allowed people to take pictures of me in a bikini, but after working out at Elovon, I don’t care – snap away!',
+      image: review2
     },
     {
-      name: 'Laura C.',
-      text: 'I have never allowed people to take pictures of me in a bikini, but now I don’t care, snap away!',
-      image: review1
+      name: 'Jason C.',
+      text: '"Strong is a good look" - I’m so thankful to have found Elovon gym, and I tell people all the time about it.',
+
+      image: review3
     }
   ];
 
