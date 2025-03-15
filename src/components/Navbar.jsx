@@ -8,10 +8,10 @@ function NavBar() {
    
     <nav className='navItems'>
         <a href="#plans">Plans</a>
-        <a href="#trainers" >Trainers</a>
-        <a href="#facilities"  >Facilities</a>
+       {/*  <a href="#trainers" >Trainers</a> */}
+        <a href="#classes"  >Classes</a>
         <a href="#reviews"  >Reviews</a>
-        <a href="#about-us"  >About us</a>
+        <a href="#contact"  >Contact</a>
     </nav>
        
     </div>
