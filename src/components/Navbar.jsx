@@ -7,7 +7,7 @@ function NavBar() {
       <img src={logo} alt="logo-elovon" className='nav-logo'/>
    
     <nav className='navItems'>
-        <a href="#about">Plans</a>
+        <a href="#plans">Plans</a>
         <a href="#trainers" >Trainers</a>
         <a href="#facilities"  >Facilities</a>
         <a href="#reviews"  >Reviews</a>
