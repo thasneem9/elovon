@@ -1,7 +1,7 @@
 .reviews-container {
   text-align: center;
   padding: 3rem;
-  background-color: #111315; /* GitHub dark mode background */
+  background-color: #0d0d0d; /* GitHub dark mode background */
   color: #e6edf3;
   font-family: 'Inter', sans-serif; /* Modern, professional font */
 }
@@ -33,7 +33,7 @@
 }
 
 .review-card {
-  background-color: #161b22; /* Slightly lighter dark for contrast */
+  background-color: #131212d8; /* Slightly lighter dark for contrast */
   padding: 2rem;
   border-radius: 12px;
   max-width: 320px;
@@ -43,11 +43,7 @@
   border: 1px solid #30363d;
 }
 
-.review-card:hover {
-  transform: translateY(-8px);
-  background-color: #1f2937;
-  border-color: #ff8a00;
-}
+
 
 .avatar {
   width: 60px;
@@ -58,9 +54,7 @@
   transition: all 0.3s ease-in-out;
 }
 
-.review-card:hover .avatar {
-  box-shadow: 0 0 12px #ff8a00;
-}
+
 
 .review-card h3 {
   font-size: 1.2rem;
