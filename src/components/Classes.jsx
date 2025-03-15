@@ -24,7 +24,7 @@ const Classes = () => {
     <>
     <div className='black' id="classes">
    <h1 className='classes-subtitle'>Our Exclusive Workout Classes</h1>
-  <p className='classes-subtitle-small'>ONLY AT ELEVON</p>
+  <p className='classes-subtitle-small'>ONLY AT ELOVON</p>
    </div>
     <div className="classes-grid">
       {classesData.map((item, index) => (

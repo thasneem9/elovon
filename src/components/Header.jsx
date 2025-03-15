@@ -39,7 +39,7 @@ export default function Header() {
       <div className="overlay-content">
         <h1>ELOVON</h1>
         <h1>Where Power Meets Purpose</h1>
-        <h1>Get Fit Get Lit Get Elevon</h1>
+        <h1>Get Fit Get Lit Get </h1>
         <button>Join Now</button>
       </div>
     </div>
