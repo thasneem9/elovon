@@ -36,3 +36,37 @@
     color: #ADB7BA;
 }
 
+/* Mobile view optimization */
+@media (max-width: 480px) {
+
+    .nav-container{
+    padding: 1px;
+  
+    }
+    
+.nav-logo {
+    height: 55px;
+    width: 90px;
+}
+
+.navItems {
+    display: flex;
+    gap: 0px;
+}
+
+.navItems a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1px;
+    font-family: "Arial", sans-serif;
+    padding: 8px;
+    text-align: center;
+}
+
+.navItems a:hover {
+    color: #ADB7BA;
+}
+
+   
+  }
+  
