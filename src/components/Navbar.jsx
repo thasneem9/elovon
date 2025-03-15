@@ -3,7 +3,7 @@ import './navbar.css'
 import logo from '../assets/logo.jpg' 
 function NavBar() {
   return (
-    <>
+    <div className='nav-container'>
       <img src={logo} alt="logo-elovon" className='nav-logo'/>
    
     <nav className='navItems'>
@@ -14,7 +14,7 @@ function NavBar() {
         <a href="#about-us"  >About us</a>
     </nav>
        
-    </>
+    </div>
   )
 }
 
