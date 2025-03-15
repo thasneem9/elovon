@@ -12,7 +12,7 @@ import class6 from '../assets/class6.png'
 
 const classesData = [
   { title: 'CHISEL IT', image: class1, icon: <FaDumbbell />, description: 'High-intensity strength training' },
-  { title: 'THE RIDE', image: class2, icon: <FaBicycle />, description: 'Indoor cycling session' },
+  { title: 'THE RIDE', image: class2, icon: <GrYoga />, description: 'Energetic Zumba Classes' },
   { title: 'MIND BODY BURN', image: class3, icon: <FaSpa />, description: 'Relax and strengthen the body' },
   { title: 'DANCE FUSION', image: class4, icon: <GrYoga />, description: 'Energetic dance workout' },
   { title: 'POWER LIFT', image: class5, icon: <FaWeightHanging />, description: 'Heavy lifting for power' },
