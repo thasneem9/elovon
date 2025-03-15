@@ -22,7 +22,7 @@ const Reviews = () => {
   ];
 
   return (
-    <div className="reviews-container">
+    <div className="reviews-container" id="reviews">
       <h1 className="title">The Best Success Story is Your Own</h1>
       <p className="subtitle">
         Hitting the barre at Physique 57 means pushing your limits and opening yourself up to change. But trust us when we tell you – it’s worth it. Our clients tell us all the time that they’ve never experienced workouts – or seen results – like ours.

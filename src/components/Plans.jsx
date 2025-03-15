@@ -73,7 +73,7 @@ const Card = ({ title, img, benefits, id }) => {
 
 const Plans = () => {
   return (
-    <div className='main-container'>
+    <div className='main-container' id="plans">
 
    <h1>Explore Our Workout Plans</h1>
     <div className="container">
